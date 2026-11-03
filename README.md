@@ -2,7 +2,7 @@
 
 # `> me.py`
 
-`lise 1` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript`
+`Lise 1` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `Tuğra Eker`
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
